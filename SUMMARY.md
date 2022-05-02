@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Aniracer Arena Summary](README.md)
+* [Aniracers Arena Summary](README.md)
 
 ## Tokenomics
 

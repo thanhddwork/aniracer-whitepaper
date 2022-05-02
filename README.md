@@ -1,4 +1,4 @@
-# Aniracer Arena Summary
+# Aniracers Arena Summary
 
 ## Introduction
 
