@@ -1,3 +1,9 @@
+---
+description: >-
+  Aniracer is a multiplayer racing game using Blockchain Technology with
+  different gameplay modes:
+---
+
 # Game Play
 
 ## Stat-based Racing
