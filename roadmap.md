@@ -12,6 +12,7 @@
 * Seed and Private Sale Round
 * Initial Aniracers NFT Sales
 * Airdrop event
+* Community and Parnership Building
 
 ## Q3-2022
 
@@ -19,7 +20,7 @@ Staking Token and NFTs
 
 Release Mobile Version
 
-Release Stat-based Racing
+Release Gameplay V1.0
 
 Release Marketplace, Breeding, Renting
 
@@ -27,7 +28,7 @@ Initial Sales of Gear
 
 ## Q4-2022
 
-Release Skill-Based Racing
+Release Gameplay V2.0
 
 Initial Land Sales
 
@@ -37,7 +38,7 @@ Release Guild System
 
 ## Q1-2023
 
-Release new Gameplay Farming Mode
+Release new Gameplay: Farming Mode
 
 First Tournament Event
 
@@ -45,6 +46,6 @@ Release Guild War mode
 
 ## Q2-2023
 
-Release new Gameplay Dungeon Mode
+Release new Gameplay: Dungeon Mode
 
 Chat System
